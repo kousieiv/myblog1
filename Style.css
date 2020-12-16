@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+#CR {
+    border-radius: 60%;
+}
+#wc {
+     
+    color: #FFFFFF;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    width: 100%;
+    height: 50%;
+}
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300
+}
+#info {
+    padding: 50px;
+    text-align: center;
+
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+
+
